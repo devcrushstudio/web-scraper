@@ -98,10 +98,10 @@ GET http://localhost:3000/api/scrape?url=https://example.com
 
 ## 🚀 Deployment
 
-### Deploy on Vercel (Free Tier)
+### Deploy on Render (Free Tier)
 
 1. Push project to GitHub
-2. Import repository into **Vercel**
+2. Import repository into **Render**
 3. Set:
    - Build Command: `npm install`
    - Output Directory: default
