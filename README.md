@@ -24,7 +24,7 @@ Fetches titles, descriptions, headings, links, images, and clean text from any s
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/web-scraper.git
+git clone https://github.com/devcrushstudio/web-scraper.git
 cd web-scraper
 Install dependencies:
 
